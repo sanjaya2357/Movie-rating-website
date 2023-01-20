@@ -1,3 +1,3 @@
 # Movie-rating-website
 
-HEllO, WELCOME :) 
+HELLO, WELCOME :) 
